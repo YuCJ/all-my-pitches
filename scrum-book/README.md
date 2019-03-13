@@ -3,7 +3,37 @@
 - 摘要：[yucj](https://github.com/YuCJ) 
 - 日期：2019.03.14
 
-[TOC]
+- [SCRUM: The Art of Doing Twice the Work in Half the Time](#scrum-the-art-of-doing-twice-the-work-in-half-the-time)
+  - [The Philosophy behind Scrum](#the-philosophy-behind-scrum)
+    - [Blame the system, not the person](#blame-the-system-not-the-person)
+    - [個人表現可以解決特殊情況，但團隊制度才能有穩定產出](#個人表現可以解決特殊情況但團隊制度才能有穩定產出)
+    - [轉換工作有成本，與其平行分工，不如進行集中火力](#轉換工作有成本與其平行分工不如進行集中火力)
+    - [心力是寶貴資源，不要浪費時間作錯誤的事](#心力是寶貴資源不要浪費時間作錯誤的事)
+    - [既然長期、瀑布式計畫被證明是無效的，就不要浪費時間作它](#既然長期瀑布式計畫被證明是無效的就不要浪費時間作它)
+  - [Build a Scrum Team](#build-a-scrum-team)
+    - [Scrum 團隊最適規模：3～9人](#scrum-團隊最適規模39人)
+    - [Scrum 團隊的必要性質](#scrum-團隊的必要性質)
+      - [透明](#透明)
+      - [有追求不斷改善的熱情](#有追求不斷改善的熱情)
+      - [有自主決定怎麼做事的權限](#有自主決定怎麼做事的權限)
+      - [團隊本身就要有完成專案產品所需的所有技能](#團隊本身就要有完成專案產品所需的所有技能)
+    - [Scrum 團隊的領導角色](#scrum-團隊的領導角色)
+      - [Product Owner](#product-owner)
+      - [Scrum Master](#scrum-master)
+    - [Scrum 團隊怎麼跟團隊外合作](#scrum-團隊怎麼跟團隊外合作)
+  - [The Overall Picture about Scrum: 不斷 sprints 創造價值](#the-overall-picture-about-scrum-不斷-sprints-創造價值)
+  - [Sprint Planning](#sprint-planning)
+    - [列出必須完成的 stories 清單](#列出必須完成的-stories-清單)
+      - [A User Story, Not a Todo Item](#a-user-story-not-a-todo-item)
+      - [The Required Properties of a GOOD STORY](#the-required-properties-of-a-good-story)
+      - [Testable: Story must have Definition of Done](#testable-story-must-have-definition-of-done)
+      - [Examples of Story](#examples-of-story)
+    - [排定優先順序：每段衝刺都要有創造價值的成品，最確定有價值的先](#排定優先順序每段衝刺都要有創造價值的成品最確定有價值的先)
+      - [排定優先順序範例](#排定優先順序範例)
+    - [估算規模：用 Planning Poker 估點數](#估算規模用-planning-poker-估點數)
+    - [Sprint Planning 範例](#sprint-planning-範例)
+  - [Sprint Retrospective](#sprint-retrospective)
+  - [Daily Standup Meeting](#daily-standup-meeting)
 
 ---
 
